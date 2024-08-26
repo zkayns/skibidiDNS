@@ -1,7 +1,7 @@
-	var dedns="45.90.28.187";	
-	var nydns="45.90.28.187";	
-	var idkdns="45.90.28.187";
-	var lastdns="45.90.28.187";
+	var dedns="167.86.91.171";	
+	var nydns="66.94.105.229";	
+	var idkdns="213.109.163.210";
+	var lastdns="92.60.37.102";
 	document.getElementById("ip1").value=dedns;
 	document.getElementById("ip2").value=nydns;
 	document.getElementById("ip3").value=idkdns;
